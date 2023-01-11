@@ -4,8 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2aa972b0-27da-42f1-99d3-981f18d5bbde" name="Changes" comment="add icons">
+    <list default="true" id="2aa972b0-27da-42f1-99d3-981f18d5bbde" name="Changes" comment="+bg">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/pngwing1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/pngwing2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/pngwing3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/pngwing4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/pngwing5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/pngwing6.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,12 +89,27 @@
       <option name="project" value="LOCAL" />
       <updated>1673431590167</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="+bg">
+      <created>1673433084036</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1673433084036</updated>
+    </task>
+    <task id="LOCAL-00006" summary="+bg">
+      <created>1673433162511</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1673433162511</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add main branch" />
     <MESSAGE value="add icons" />
-    <option name="LAST_COMMIT_MESSAGE" value="add icons" />
+    <MESSAGE value="+bg" />
+    <option name="LAST_COMMIT_MESSAGE" value="+bg" />
   </component>
 </project>
